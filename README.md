@@ -5,7 +5,7 @@ This is a .gitignore file template I use this list to populate the .gitignore fi
 
 For more information about how .gitignore files work, and how to use them, the following resources are a great place to start:
 
-- The Ignoring Files chapter of the Pro Git book.
+- The [Ignoring Files chapter](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_ignoring) of the Pro Git book. 
 - The Ignoring Files article on the GitHub Help site.
 - The gitignore(5) manual page.
 
