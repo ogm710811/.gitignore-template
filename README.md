@@ -6,8 +6,8 @@ This is a .gitignore file template I use this list to populate the .gitignore fi
 For more information about how .gitignore files work, and how to use them, the following resources are a great place to start:
 
 - The [Ignoring Files chapter](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_ignoring) of the [Pro Git](https://git-scm.com/book/en/v2) book. 
-- The Ignoring Files article on the GitHub Help site.
-- The gitignore(5) manual page.
+- The [Ignoring Files article](https://help.github.com/articles/ignoring-files/) on the GitHub Help site.
+- The [gitignore](https://git-scm.com/docs/gitignore) manual page.
 
 # Folder structure
 Add this file in the root directory of your project specific.
